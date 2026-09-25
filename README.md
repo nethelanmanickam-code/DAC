@@ -98,6 +98,9 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c10126ff-fd9e-4de7-91c9-59119ac7042e" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4b24b013-9b08-42b4-94fd-c85ede58ed7f" />
+
+
 
 
 ## Result
